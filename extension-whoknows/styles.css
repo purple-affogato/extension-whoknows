@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    font-size: medium;
+    font-family: 'Consolas', bold, monospace;
+}
+p {
+    color: black;
+    font-size: small;
+    font-family: 'Consolas', monospace;
+}
+body {
+    width: 150px;
+    height: 200px;
+}
+img {
+    vertical-align: bottom;
+    float: right;
+}
