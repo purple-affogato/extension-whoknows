@@ -16,7 +16,10 @@ var list = [
     "if it has abs, it can't be that bad.",
     "dee-double-u about it.",
     "Life is a beautiful galaxy. Be a writer, the genre is fantasy. A big big stage will open for me tomorrow. So that is who I am.",
-    "You are someone's dream come true. Deja vu of some perfect day."
+    "You are someone's dream come true. Deja vu of some perfect day.",
+    "And I walk like a lion, I'm making my own history. I don't know the answers, I just go my own way.",
+    "I'm a confident person, but I do get depressed and cry alone at home sometimes. You can't help that because we're humans. It's okay to cry and make mistakes. People always make mistkaes and learn from them. Fall down again and again, then get up one more time. That's a confident woman.",
+    "Be on the side that saves people. If both sides are the same, then choose to become a good person. Save the weak, protect the orphaned. You might not see a great difference between right and wrong, but... saving others is something just a bit wonderful.",
 ];
 
 document.getElementById("button1").addEventListener("click", getQuote)
